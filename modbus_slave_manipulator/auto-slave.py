@@ -39,7 +39,7 @@ while True:
 pag.write(f'{-1}', interval=0.15)
 pdi.press('enter')
 #Dar um tempo (5 minutos) para facilitar a diferenciação no gráfico
-sleep (300);
+sleep (300)
 
 
 # Ciclo periódico de 10s
