@@ -1,5 +1,8 @@
 '''
 Esse código tem como função manipular o tempo de envio de dados do modbus slave simulator.
+Author: Gabriela Dellamora Paim
+Version: 14.07.23
+Github: https://github.com/MarnieGrenat
 '''
 import pyautogui as pag
 import pydirectinput as pdi
